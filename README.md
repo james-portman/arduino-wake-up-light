@@ -1,4 +1,5 @@
 # arduino-wake-up-light
+wake up light and clock using an IKEA dioder LED strip
 
 gets the real time on startup from a DS1307RTC
 
